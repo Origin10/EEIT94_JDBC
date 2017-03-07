@@ -1,0 +1,23 @@
+package com.iii.eeit94.LinCZ;
+
+public class SQLcmdProcess {
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String sqlC ="select ename salary from employee.";
+		sqlC.toLowerCase();
+		int sqlCLen = sqlC.split(" ").length;
+		for(int i=1;i<=sqlCLen;i++){
+			String[] sqlCa = sqlC.split(" ");
+			
+			System.out.println(sqlCa[0]);
+			
+		}
+		
+		
+		
+		
+	}
+
+}
