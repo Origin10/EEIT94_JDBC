@@ -24,9 +24,12 @@
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
+<<<<<<< HEAD
 	<section name="NewPackageWizardPage">
 		<item value="false" key="create_package_info_java"/>
 	</section>
+=======
+>>>>>>> 988cd05aa52ff575ee025c7634fff3f6dee7c2c4
 	<section name="completion_proposal_size">
 	</section>
 	<section name="JavaElementSearchActions">
